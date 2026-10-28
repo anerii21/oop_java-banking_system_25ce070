@@ -10,9 +10,11 @@ target/
 *.war
 *.nar
 *.ear
-*.zip
 *.tar.gz
 *.rar
+# Allow project submission zip
+!oop_java-banking_system_25ce070.zip
+
 
 # Virtual Machine Crash Logs
 hs_err_pid*
